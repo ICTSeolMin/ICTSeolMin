@@ -8,3 +8,4 @@ HashPuzzleTest MD File
 에너지 낭비하며 채굴
 ㅁㄴㅇㅎㅁㄴㅇㅎ
 ㅁㄴㅇㅎㅁㄴㅇㅎ
+뒤에 영 
