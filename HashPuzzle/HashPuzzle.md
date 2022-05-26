@@ -4,3 +4,4 @@ HashPuzzleTest MD File
 장은주 수정완료
 채굴
 다시 채굴
+진짜 다시 채굴
