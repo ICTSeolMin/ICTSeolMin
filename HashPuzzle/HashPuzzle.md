@@ -5,3 +5,4 @@ HashPuzzleTest MD File
 채굴
 다시 채굴
 진짜 다시 채굴
+에너지 낭비하며 채굴
