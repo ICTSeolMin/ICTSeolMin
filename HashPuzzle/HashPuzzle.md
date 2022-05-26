@@ -3,3 +3,4 @@ HashPuzzleTest MD File
 정은경 수정 완료
 장은주 수정완료
 채굴
+다시 채굴
