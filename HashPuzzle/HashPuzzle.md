@@ -17,4 +17,4 @@ HashPuzzleTest MD File
 채굴
 0두개 채굴
 0두
-커피커피
+이게 바로 커피 채굴
