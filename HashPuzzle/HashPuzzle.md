@@ -15,3 +15,4 @@ HashPuzzleTest MD File
 🤩
 🙄
 채굴
+0두개 채굴
